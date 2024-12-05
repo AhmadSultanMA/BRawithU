@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.irza.brawithu"
+    namespace = "com.papb.brawithu"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.irza.brawithu"
+        applicationId = "com.papb.brawithu"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
