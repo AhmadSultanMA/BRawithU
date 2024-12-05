@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889897085830",
+    "project_id": "brawithu",
+    "storage_bucket": "brawithu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889897085830:android:6d04b6a85db730d5ed9a07",
+        "android_client_info": {
+          "package_name": "com.irza.brawithu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQftAtNMzscoxUiKzIcRPGet39Pw076SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
